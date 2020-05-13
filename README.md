@@ -1,4 +1,15 @@
-## TS-API-Boilerplate
+## Ramadan-API
+
+
+### Features
+
+## Prayer Times API
+## Dua API
+## Quran
+    /surah
+    /ayat
+    /ayat-translated
+    
 
 
 ### Setup
@@ -13,15 +24,11 @@ npm install
 npm run dev
 ```
 
-Then visit `http://localhost:3000/cats`
-
 ### Run without nodemon and tsc --watch
 
 ```bash
 npm start
 ```
-
-Then visit `http://localhost:3000/cats`
 
 ## Swagger
 
