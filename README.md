@@ -5,12 +5,12 @@
 
 ## Prayer Times API
 ## Dua API
+    /purpose
+    /notification based on purpose and context
 ## Quran
     /surah
     /ayat
     /ayat-translated
-    
-
 
 ### Setup
 
